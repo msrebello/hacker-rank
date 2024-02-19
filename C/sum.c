@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/sum-numbers-c/problem?isFullScreen=true
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
