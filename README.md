@@ -9,7 +9,9 @@
 ```bash
 # IDE:
 > Visual Studio Code
+> IntelliJ IDEA
 
 # Language:
 > C
+> Java
 ```
