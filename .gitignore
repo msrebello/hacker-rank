@@ -3,3 +3,7 @@
 
 # Ignore generated executables
 output/
+
+# IntelliJ IDEA
+.idea/
+Java.iml
