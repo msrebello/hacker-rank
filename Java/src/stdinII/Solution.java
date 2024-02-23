@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true
+
 package stdinII;
 
 import java.util.Locale;
